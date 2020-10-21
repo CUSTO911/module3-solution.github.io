@@ -1,0 +1,57 @@
+body {
+	font-family: 'ABeeZee';
+	font-size: 14px;
+	background-color: #fff5ee;
+}
+
+/*header*/
+#header-nav {
+	background-color: #999;
+	border-top: 2px solid #000;
+	border-bottom: 2px solid #000;
+}
+.navbar-brand {
+
+}
+.navbar-nav {
+
+}
+#nav-list2 {
+	border-top: 2px solid #000;
+	background-color: #c14543;
+}
+#navbarNavAltMarkup {
+
+}
+/*content*/
+h1 {
+	font-size: 200%;
+}
+h3 {
+	font-size: 150%;
+}
+.title-1 {
+	background-color: #d59898;
+	border-bottom: 1px dotted #000;
+}
+.title-2 {
+	background-color: #c14543;
+	border-bottom: 1px dotted #000;
+}
+.title-3 {
+	background-color: #e5d198;
+	border-bottom: 1px dotted #000;
+}
+
+/*responsive*/
+.container-fluid {
+	width: 100%;
+}
+.block {
+	background: #f8f9fa;
+	border: 1px dotted #000;
+}
+
+@media {
+	
+}
