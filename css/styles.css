@@ -10,22 +10,13 @@ body {
 	border-top: 2px solid #000;
 	border-bottom: 2px solid #000;
 }
-.navbar-brand {
 
-}
-.navbar-nav {
-
-}
-#nav-list2 {
-	border-top: 2px solid #000;
-	background-color: #c14543;
-}
-#navbarNavAltMarkup {
-
-}
 /*content*/
 h1 {
 	font-size: 200%;
+}
+h2 {
+	font-size: 175%;
 }
 h3 {
 	font-size: 150%;
@@ -42,6 +33,18 @@ h3 {
 	background-color: #e5d198;
 	border-bottom: 1px dotted #000;
 }
+#nav-list1 {
+	border-top: 2px solid #000;
+	background-color: #d59898;
+}
+#nav-list2 {
+	border-top: 1px solid #000;
+	background-color: #c14543;
+}
+#nav-list3 {
+	border-top: 1px solid #000;
+	background-color: #e5d198;
+}
 
 /*responsive*/
 .container-fluid {
@@ -50,8 +53,4 @@ h3 {
 .block {
 	background: #f8f9fa;
 	border: 1px dotted #000;
-}
-
-@media {
-	
 }
